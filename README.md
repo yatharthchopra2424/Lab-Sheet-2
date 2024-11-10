@@ -1,4 +1,4 @@
-# Data Structures Lab Sheet 1
+# Data Structures Lab Sheet 2
 
 ## How to Run the Code
 
